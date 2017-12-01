@@ -9,7 +9,7 @@ def printTree():
 
     tree = '*'
     space = ' '
-    bulb = 'O'
+    trunk = '#'
 
     for i in range( 0, width ):
         for j in range( 0, width - i ):
